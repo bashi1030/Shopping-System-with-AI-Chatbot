@@ -1,0 +1,4 @@
+jamal1,jamal123,0.00,Seller
+ali123,aliabbas123,0.00,Seller
+mubashir123,mubashir123,21000.00,Buyer,[]
+areeba123,areeba123,0.00,Seller

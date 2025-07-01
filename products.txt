@@ -1,0 +1,5 @@
+black pant,10.00,10,jamal1,clothes
+denim jacket,25.00,38,jamal1,clothes
+white shirt,30.00,30,jamal1,clothes
+Asus Tuf,2000.00,12,ali123,Electronic;laptops
+kashmiri shawl,100.00,45,areeba123,clothes
